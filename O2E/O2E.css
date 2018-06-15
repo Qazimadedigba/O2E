@@ -1,0 +1,53 @@
+body
+{
+	text-align: center;
+	background-color:white;
+	color: #blue;
+	font: san-serif;
+	font-size: 60px;
+}
+h1
+{
+    text-align: center;
+	color: teal;
+	text-align: center;
+}
+footer
+{
+	font-size: xx-small;
+	font-family: cursive;
+	color: magenta;
+}
+nav
+{
+	font-size: 13px;
+	font-family: serif;
+	color: magenta;
+}
+#homenav
+{
+	text-align: left;
+	color: #ffffff
+	font:cursive;
+	font-size: 17px;
+}
+span
+{
+	color: #000000;
+}
+.bodyab
+{
+background-color: black;
+color:teal;
+font-size: 35px;
+}
+#abhm
+{
+	text-align: left;
+	font-size: 13px;
+}
+#cohm
+{
+	text-align: left;
+	font-size: 13px;
+}
